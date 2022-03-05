@@ -1,13 +1,8 @@
-# Simple peer-to-peer file network.
+# P2P Network
+### Authors:
+* Mateusz Szczepanowski
+* Łukasz Staniszewski
+* Albert Ściseł
 
-Simple program simulating node in peer-to-peer network.
-Works in local network and allows user to upload/share file to other nodes/users and download files from other nodes/users in network.
+Implementation of Peer 2 Peer Network, that allows files to be transferred between nodes on a local network.
 
-## Authors:
-+ Łukasz Staniszewski
-+ Albert Ściseł
-+ Mateusz Szczepanowski
-
-## Technologies:
-+ Python
-+ Socket
